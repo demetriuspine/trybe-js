@@ -7,4 +7,4 @@ arrayDiv = []
 for (indexDiv = 0; indexDiv < novaArray.length; indexDiv += 1) {
   arrayDiv.push(novaArray[indexDiv]/2)
 }
-console.log(arrayDiv)
+console.log(arrayDiv);
